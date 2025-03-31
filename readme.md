@@ -41,6 +41,11 @@ The CIFAR-10 dataset is used for training and evaluation. Images are resized to 
    pip install -r requirements.txt
    ```
 
+3. Install our project:
+   ```bash
+   pip install -e .
+   ```
+
 ---
 
 ## 🏋️‍♂️ How to Train
